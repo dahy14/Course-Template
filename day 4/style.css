@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* phone screen, mobile first*/
+
+/* tablet screen */
+@media (min-width: 40em) {
+}
+
+/* large screen */
+@media (min-width: 65em) {
+}

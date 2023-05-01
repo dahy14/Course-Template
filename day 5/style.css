@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  background-color: #0a0908;
+  display: flex;
+  flex-direction: column;
+
+  color: #fff;
+}
+h2 {
+}
+
+h4 {
+}
+
+p {
+}
+
+a {
+}
+
+.square {
+  outline: 1px solid white;
+  padding: 20px;
+}
